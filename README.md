@@ -18,7 +18,7 @@ Access link- https://gita-detox-rm9s3saykhjpwwdb7algcn.streamlit.app/
 The aim of this project is to help users reduce stress by offering short, meaningful guidance inspired by the Bhagavad Gita.
 
 ## App Preview
-![Gita Detox Screenshot](Screenshot.png)
+ ![Gita Detox Screenshot](Screenshot.png)
 
 
 
