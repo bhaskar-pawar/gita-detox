@@ -1,7 +1,5 @@
 \# 🧘 Gita Detox
 
-
-
 An AI-powered mental wellness web application inspired by the Bhagavad Gita.
 
 
@@ -28,11 +26,17 @@ An AI-powered mental wellness web application inspired by the Bhagavad Gita.
 
 \## 🌐 Live App
 
-https://your-app-link.streamlit.app
+
+
+Access link- https://gita-detox-rm9s3saykhjpwwdb7algcn.streamlit.app/
 
 
 
 \## 📌 Description
 
-This project helps users reduce stress by offering short, meaningful guidance inspired by the Bhagavad Gita.
+The aim of this project is to help users reduce stress by offering short, meaningful guidance inspired by the Bhagavad Gita.
+
+
+
+
 
